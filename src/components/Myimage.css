@@ -1,0 +1,14 @@
+.grid-four-column img {
+    width: 200px;
+    height: auto;
+    margin: 10px 0px 0px 100px;
+    cursor: pointer;
+}
+
+.main-screen img {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 350px;
+    top: 200px;
+}

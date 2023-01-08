@@ -1,0 +1,18 @@
+img.item-img {
+    width: 100px;
+    height: auto;
+}
+
+.cart_heading.grid.grid-five-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    margin: 16px 0px;
+}
+
+.amount-toggle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

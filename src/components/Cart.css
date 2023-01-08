@@ -1,0 +1,54 @@
+.headdata {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.item-p {
+    margin: 0px 20px;
+}
+
+.q {
+    margin-left: 30px;
+}
+
+.cartDiv {
+    min-height: 68vh;
+}
+
+.cart-two-button {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 80px;
+}
+
+.cart-two-button button {
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+
+.cart-two-button button:hover {
+    background-color: brown;
+    cursor: pointer;
+    border: none;
+}
+
+.order-total-amount {
+    line-height: 1.5;
+    text-align: start;
+    display: flex;
+    justify-content: end;
+    margin: 20px 25px;
+}
+
+.order-total {
+    padding: 10px 0px;
+}
+
+.order-total p {
+    padding: 2px 0px;
+}

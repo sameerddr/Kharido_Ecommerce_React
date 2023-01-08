@@ -1,0 +1,24 @@
+.con {
+    background-color: whitesmoke;
+}
+
+.grid-three-column {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.intro-data {
+    padding-top: 10px;
+    font-size: 30px;
+    margin-left: 130px;
+}
+
+.common-heading {
+    margin-left: 130px;
+    font-weight: 600;
+    font-size: 40px;
+}

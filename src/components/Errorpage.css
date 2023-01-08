@@ -1,0 +1,16 @@
+.error {
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.error h2 {
+    font-size: 10rem;
+}
+
+.error h3 {
+    font-size: 4.2rem;
+}
+
+.error p {
+    margin: 2rem 0;
+}

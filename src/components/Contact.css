@@ -1,0 +1,29 @@
+.contact {
+    margin-top: 1px;
+}
+
+.contact-form {
+    margin-left: 550px;
+    margin-top: 60px;
+}
+
+.form .btn {
+    padding: 10px 20px;
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 10px;
+    border: none;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.contact-form input {
+    padding: 10px;
+}
+
+.contact-form textarea {
+    padding: 5px 2px;
+}

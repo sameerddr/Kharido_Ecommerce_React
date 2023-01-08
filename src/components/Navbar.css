@@ -1,0 +1,74 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 40px;
+}
+
+.navbar li::marker {
+    content: " ";
+}
+
+.navbar .active {
+    color: yellow;
+    border-bottom: 1px solid yellow;
+}
+
+.navbar-lists a {
+    text-decoration: none;
+    color: white;
+    padding: 0px 20px;
+    font-size: 22px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.nav-list2 {
+    display: flex;
+    height: 70px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.logo {
+    font-size: 30px;
+    color: white;
+}
+
+.username {
+    color: white;
+}
+
+.button-60 {
+    margin-left: 10px;
+    background-color: #fff;
+    border: 1px solid #dbdbdb;
+    border-radius: 0.375em;
+    color: #363636;
+    cursor: pointer;
+    font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    padding: 5px;
+    text-align: center;
+}
+
+.button-60:active {
+    border-color: #4a4a4a;
+    outline: 0;
+}
+
+.button-60:focus {
+    border-color: #485fc7;
+    outline: 0;
+}
+
+.button-60:hover {
+    border-color: #b5b5b5;
+}
+
+.button-60:focus:not(:active) {
+    box-shadow: rgba(72, 95, 199, 0.25) 0 0 0 0.125em;
+}

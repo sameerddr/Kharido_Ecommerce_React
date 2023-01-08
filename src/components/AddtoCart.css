@@ -1,0 +1,12 @@
+.btn {
+    background-color: black;
+    color: white;
+    padding: 8px 20px;
+    margin-left: 260px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: brown;
+    border: none;
+}

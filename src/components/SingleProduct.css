@@ -1,0 +1,47 @@
+.grid-two-column {
+    display: flex;
+    margin: 20px 0px;
+}
+
+.product-data {
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.product-data-price {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.product-data-info {
+    font-size: 1rem;
+}
+
+.product-data-info span {
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+
+.product-data-info p {
+    text-transform: capitalize;
+    font-size: 16px;
+}
+
+.page_loading {
+    font-size: 3.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-data h2 {
+    text-transform: capitalize;
+    margin: 4px 0px;
+}
+
+.des {
+    padding: 10px 45px 10px 0px;
+    font-size: 15px;
+    font-weight: 500;
+}

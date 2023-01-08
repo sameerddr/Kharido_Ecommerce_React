@@ -1,0 +1,18 @@
+.data {
+    padding: 30px;
+    flex-wrap: nowrap;
+    width: 100%;
+    height: auto;
+    justify-content: space-between;
+}
+
+.pro {
+    margin: 40px;
+}
+
+.prod {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
